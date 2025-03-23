@@ -1,0 +1,19 @@
+
+* {
+    background-color: blanchedalmond;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(54, 54, 54);
+}
+
+h1 {
+    font-weight: bold;
+}
+
+img {
+    height: auto;
+    width: 550px;
+}
+
+.align-text-center {
+    text-align: center;
+}
